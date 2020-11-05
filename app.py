@@ -12,6 +12,3 @@ def indice():
  
 if __name__ == "__main__":
     app.run()
-    #esto se ejecuta solamente si es el archivo principal
-#set FLASK_APP=app.py #(export en linux en vez de export) Se escribe esto en la terminal para agregar al path
-#flask run #hace correr el servidor localmente
